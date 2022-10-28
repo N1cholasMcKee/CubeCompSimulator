@@ -1,0 +1,9 @@
+﻿  Competitor.cpp
+C:\Users\Nicholas\source\repos\CubeCompSimulator\CubeCompSimulator\CubeCompSimulator\Competitor.cpp(37,27): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Nicholas\source\repos\CubeCompSimulator\CubeCompSimulator\CubeCompSimulator\Competitor.cpp(45,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nicholas\source\repos\CubeCompSimulator\CubeCompSimulator\CubeCompSimulator\Competitor.cpp(47,19): warning C4244: 'argument': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Users\Nicholas\source\repos\CubeCompSimulator\CubeCompSimulator\CubeCompSimulator\Competitor.cpp(47,14): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  CubeCompSimulator.cpp
+  resultsExtractor.cpp
+  Generating Code...
+  CubeCompSimulator.vcxproj -> C:\Users\Nicholas\source\repos\CubeCompSimulator\CubeCompSimulator\x64\Debug\CubeCompSimulator.exe
